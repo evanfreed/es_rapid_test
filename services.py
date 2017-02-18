@@ -1,4 +1,5 @@
 import certifi
+import requests
 import json
 
 from elasticsearch import Elasticsearch
