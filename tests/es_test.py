@@ -6,7 +6,6 @@ from es_rapid_test import services
 
 
 def test_get_host():
-    # Send a request to the API server and store the response.
     response = services.get_host()
 
 def test_create_index():
