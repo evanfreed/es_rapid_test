@@ -6,8 +6,8 @@ Provides a very simplistic test framework for Elasticsearch.  Feel free to custo
 pip install -r requirements.txt
 ```
 
-##### Constants
-Update the constants.py file to configure connectivity for your target instance.  Values:
+##### constants.py
+Update this file to configure connectivity for your target instance.  Values:
 
 ```
 HOSTS = [] # Array of endpoints
