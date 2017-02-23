@@ -4,7 +4,6 @@ import json
 import re
 
 from elasticsearch import Elasticsearch
-from multiprocessing import Process
 
 from es_rapid_test.constants import HOSTS, USERNAME, PASSWORD, PORT
 
